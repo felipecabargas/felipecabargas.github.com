@@ -1,0 +1,76 @@
+---
+author: juanpintoduran
+title: Ubuntu Faenza Theme for iOS
+excerpt:
+layout: post
+category:
+  - Diseño
+tags:
+  - faenza
+  - ios
+  - temas
+  - ubuntu
+post_format: [ ]
+---
+## Ubuntu Faenza Theme for iOS (v0.9)
+
+This Was my first iOS job, actually developing this and one more theme and porting it to Cydia Repo’s.
+
+Ubuntu Faenza like theme brings you a taste of Ubuntu to your iOS device
+
+Available for iPhone 2G, 3G, 3GS and iPod Touch 1G, 2G, 3G
+
+### RELEASE NOTES
+
+You need to use “Make it Mine” app to change the Carrier name to your favourite.  
+Bugs will be repaired in final version,
+
+Change LockScreen Image: Turn ON “User LockScreen” in WinterBoard
+
+#### Modo de Instalación:
+
+Desde iFile o Apps afines navega hasta /var/stash/Themes.xxxxxx/ y pega el archivo ZIP, luego sólo descomprimelo.
+
+#### Instalation Method:
+
+Trought iFile or similar app go to /var/stash/Themes.xxxxxx/ and descompress the ZIP file.
+
+#### Otras Características / Another Features:
+
+All New LockScreen  
+Faenza-Styled Icons for Most Knew Apps  
+New music interface  
+Multi-Task compatibility  
+New buttons
+
+#### Características Próxima Versión / Next v1.0 features:
+
+Also available for iPad and Retina Display.  
+Fix bugs.  
+More  App Icons (+100).
+
+#### Descarga/Download:
+
+Paquete/File (ZIP – 22.98MB) : [Ubuntu-Faenza-Theme-0.9][20]
+
+ 
+ []: http://www.cabargas.com/blog/wp-content/uploads/2011/09/cropped-slide1.jpg "cropped-slide1.jpg"
+ []: http://www.cabargas.com/blog/wp-content/uploads/2011/10/cuantotedeboui.png "cuantotedeboui"
+ []: http://www.cabargas.com/blog/wp-content/uploads/2012/06/SAM_0342.jpg "SAM_0342.jpg"
+ [4]: http://www.cabargas.com/blog/wp-content/uploads/2012/06/SAM_0342.jpg "SAM_0342.jpg"
+ []: http://www.cabargas.com/blog/wp-content/uploads/2012/06/SAM_03421.jpg "SAM_03421.jpg"
+ [6]: http://www.cabargas.com/blog/wp-content/uploads/2012/06/SAM_03421.jpg "SAM_03421.jpg"
+ []: http://www.cabargas.com/blog/wp-content/uploads/2012/06/cropped-Screenshot-from-2012-06-07-162257.jpg "cropped-Screenshot-from-2012-06-07-162257.jpg"
+ []: http://www.cabargas.com/blog/wp-content/uploads/2012/06/background.jpg "background.jpg"
+ []: http://www.cabargas.com/blog/wp-content/uploads/2012/06/cropped-2012-06-03-234918.jpg "cropped-2012-06-03-234918.jpg"
+ []: http://www.cabargas.com/blog/wp-content/uploads/2012/06/cropped-holaa.jpg "cropped-holaa.jpg"
+ []: http://www.cabargas.com/blog/wp-content/uploads/2012/07/cropped-2012-06-28-011655.jpg "cropped-2012-06-28-011655.jpg"
+ []: http://www.cabargas.com/blog/wp-content/uploads/2012/07/tocadiscos2.jpg "tocadiscos2"
+ []: http://www.cabargas.com/blog/wp-content/uploads/2012/07/tocadiscos21.jpg "tocadiscos2"
+ []: http://www.cabargas.com/blog/wp-content/uploads/2012/07/Pinto-Duran.png "Pinto-Duran"
+ []: http://www.cabargas.com/blog/wp-content/uploads/2012/07/cropped-Pinto-Duran.png "cropped-Pinto-Duran.png"
+ []: http://www.cabargas.com/blog/wp-content/uploads/2012/07/cropped-SAM_2606.jpg "cropped-SAM_2606.jpg"
+ []: http://www.cabargas.com/blog/wp-content/uploads/2012/07/cropped-wallpaper-baloons.png "cropped-wallpaper-baloons.png"
+ []: http://www.cabargas.com/blog/wp-content/uploads/2012/07/cropped-DSC_0443.jpg "cropped-DSC_0443.jpg"
+ []: http://www.cabargas.com/blog/wp-content/uploads/2012/07/cropped-6316908839_016dd9ee17_o.jpg "cropped-6316908839_016dd9ee17_o.jpg"
+ [20]: /Ubuntu-Faenza-Theme.zip
