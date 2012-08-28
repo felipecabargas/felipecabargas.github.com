@@ -1,4 +1,3 @@
-name: juanpintoduran on rails
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:year/:month/:title
@@ -11,7 +10,7 @@ markdown: rdiscount
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : juanpintoduran on rails
+title : juanpintoduran@life
 tagline: Blog de Felipe Cabargas
 author :
   name : Felipe Cabargas

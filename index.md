@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: pase y lea... sin compromiso
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
