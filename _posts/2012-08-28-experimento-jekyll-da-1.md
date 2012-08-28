@@ -32,4 +32,4 @@ Espero que vayamos aprendiendo un poco todos con quienes lean este post, y cualq
 
  [1]: https://github.com/benbalter/wordpress-to-jekyll-exporter
  [2]: http://blog.cabargas.com/categories.html
- [3]: http://blog.cabargas.com/images/jekyll-dia1.png
+ [3]: http://cabargas.com/upload-center/uploads/jekyll-dia1.png
