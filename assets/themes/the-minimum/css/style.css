@@ -88,6 +88,9 @@ img {
   margin-top: 0;
   margin-bottom: 1.625em;
 }
+p{
+  text-align: justify;
+}
 small, .small, aside {
   font-size: 0.75em;
 }
