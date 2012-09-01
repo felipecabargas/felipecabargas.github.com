@@ -19,4 +19,5 @@ tagline: Supporting tagline
   <li><span>Blog de Pía Gajardo P.</span> &raquo; <a href="http://pithaisautumn.wordpress.com/">Ir</a></li>
   <li><span>Tumblr Babulín Informado</span> &raquo; <a href="http://babulininformado.tumblr.com/">Ir</a></li>
   <li><span>Proyecto Fedora en Español</span> &raquo; <a href="http://fedoraproject.org/es/">Ir</a></li>
+  <li><span>Enlazar es Bueno</span> &raquo; <a href="http://www.enlazaresbueno.cl/">Ir</a></li>
 </ul>
