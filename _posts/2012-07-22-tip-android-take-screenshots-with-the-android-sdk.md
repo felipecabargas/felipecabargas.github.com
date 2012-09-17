@@ -39,13 +39,10 @@ Y luego ejecutamos,
 
 `./ddms`
 
-Una vez ejecutado, hacemos clic en el dispositivo en el menú izquierdo y luego en la barra de menú vamos a ‘Device’-> ‘Screen Capture…’ (o Ctrl+S)
+Una vez ejecutado, hacemos clic en el dispositivo en el menú izquierdo y luego en la barra de menú vamos a ‘Device’-> ‘Screen Capture…’ (o Ctrl+S) y luego en ‘Save’… 
 
-[![][5]][5]
+Si quieres tomar más Screenshots, simplemente presiona ‘Refresh’ y se refrescará la pantalla por la actual.
 
-y luego en ‘Save’… si quieres tomar más Screenshots, simplemente presiona ‘Refresh’ y se refrescará la pantalla por la actual.
-
-[![][6]][6]
 
  
  [2]: http://cabargas.com/images/apps.png
