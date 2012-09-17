@@ -17,9 +17,7 @@ Hace poco necesitabamos redirigir nuestro dominio principal de Mockingbird hacia
 
 El proceso de redirección de dominios (y subdominios) es sencillo y conveniente ya que se puede hacer desde CPANEL sin necesariamente editar las DNS de tu dominio completo (y con esto comprometer otros subdominios).
 
-Para hacer esto, ingresa a CPanel y busca el “Editor de Zona DNS”:
-
-[![][2]][2]
+Para hacer esto, ingresa a CPanel y busca el “Editor de Zona DNS”.
 
 Si tu idea es usar un dominio principal, añade registros de tipo “A” apuntando a las siguientes IP’s:
 
@@ -27,11 +25,7 @@ Si tu idea es usar un dominio principal, añade registros de tipo “A” apunta
 `75.101.145.87`
 `174.129.212.2`
 
- En cambio sí quieres utilizar un subdominio solo agrega un registro CNAME de la siguiente manera:
-
-[![][3]][3]
-
-apuntando a tu app en heroku (dependiendo del servidor de heroku puede ser “*test.heroku.com*” o “*test.herokuapp.com*“)
+ En cambio sí quieres utilizar un subdominio solo agrega un registro CNAME apuntando a tu app en heroku (dependiendo del servidor de heroku puede ser “*test.heroku.com*” o “*test.herokuapp.com*“)
 
 Ahora viene la parte importante, si no quieres que salga el error **“Heroku | No such app”,** tienes que ingresar a tu cuenta en heroku.com e ir a “My Apps”.
 
