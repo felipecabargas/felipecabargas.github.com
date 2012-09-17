@@ -28,5 +28,5 @@ Respecto de otras funciones como la cámara, el audio y otras dependientes del p
 
 Entonces... que le falta (aparte de poder tomar screenshots nativamente)? Esa pregunta la podremos contestar recién el 5 de Septiembre cuando Nokia y Microsoft den el vamos al tan esperado Windows Phone 8 y la consecuente actualización de los terminales 7.5 a 7.8 (les recuerdo que no serán compatibles con WP 8).
 
- [1]: http://cabargas.com/upload-center/uploads/windows-phone.jpg
+ [1]: http://cabargas.com/images/windows-phone.jpg
  [2]: http://twitter.com/marcianisto

@@ -43,5 +43,5 @@ Con la corrección a ‘start-here’ debería funcionar en todas las distros co
 `sudo apt-get install gnome-tweak-tool`
 
  
- [1]: http://cabargas.com/blog/wp-content/uploads/2011/10/gnomeshellicon.png
+ [1]: http://cabargas.com/images/gnomeshellicon.png
  [2]: http://cabargas.com/proyectos/gnome-shell/extensions/iconoactividades@felipecabargas.zip

@@ -37,6 +37,6 @@ o por SSH en:
  
  [1]: http://blog.cabargas.com/2012/06/diseno-mockingbird-development/
  [2]: http://beta.mockingbirdev.com/
- [3]: http://www.cabargas.com/blog/wp-content/uploads/2012/07/homepage-today.png
- [4]: http://www.cabargas.com/blog/wp-content/uploads/2012/07/teammember.png
+ [3]: http://cabargas.com/images/homepage-today.png
+ [4]: http://cabargas.com/images/teammember.png
  [5]: https://github.com/felipecabargas/mockingbirddev-web

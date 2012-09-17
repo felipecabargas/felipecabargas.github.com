@@ -18,4 +18,4 @@ Hecho en ArtRage 3 con tableta Wacom Capture
 [![][2]][2]
 
  
- [2]: http://www.cabargas.com/blog/wp-content/uploads/2012/06/ironman.png
+ [2]: http://cabargas.com/images/ironman.png

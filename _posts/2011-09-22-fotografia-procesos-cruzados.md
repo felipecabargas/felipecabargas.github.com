@@ -51,7 +51,7 @@ Si te fijas, al inicio del video hago lo contrario, o sea, alinear el canal rojo
 
 Junto con esto, se debe aplicar un suavizado de brillo/contraste a tu gusto, pero a mi me agradan más cuando se oscurecen un poco como en el video. Obviamente, dependerá de cada foto o imagen el resultado y deberás ir probando que efectos te gustan más que otros.
 
- [1]: http://www.cabargas.com/blog/wp-content/uploads/2012/07/tocadiscos21.jpg
- [2]: http://www.cabargas.com/blog/wp-content/uploads/2012/07/tocadiscos2.jpg
+ [1]: http://cabargas.com/images/tocadiscos3.jpg
+ [2]: http://cabargas.com/images/tocadiscos2.jpg
  [19]: http://holageek.com/v1/wp-content/uploads/2011/08/oto%C3%B1o02.jpg
  [20]: http://holageek.com/v1/wp-content/uploads/2011/08/oto%C3%B1o03.jpg

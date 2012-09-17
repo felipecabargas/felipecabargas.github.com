@@ -21,4 +21,4 @@ Today, it’s just a photo of my laptop cover (full of stickers) w/ GNOME 3.4 En
 [![June Desktop][2]][2]
 
  
- [2]: http://www.cabargas.com/blog/wp-content/uploads/2012/06/Screenshot-from-2012-06-07-173536.png
+ [2]: http://cabargas.com/images/Screenshot-from-2012-06-07-173536.png

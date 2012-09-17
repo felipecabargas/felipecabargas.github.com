@@ -35,4 +35,4 @@ Cuando quieres incluir diferentes íconos para las nuevas Retina Display y los i
 <link rel="apple-touch-icon" sizes="114x114" href="touch-icon-iphone4.png" />
 {% endhighlight %}
 
- [3]: http://www.cabargas.com/blog/wp-content/uploads/2012/07/IMG_0310.png
+ [3]: http://cabargas.com/images/IMG_0310.png

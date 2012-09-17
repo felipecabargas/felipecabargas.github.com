@@ -25,4 +25,4 @@ Volviendo al ámbito académico, es impresionante la fuerza que ha ido ganando e
 
 Es en este punto entonces, sorprendido gratamente por mis compañeros que mi reflexión apunta a lo que nos queda por hacer... en mi opinión el rol del movimiento tiene que ser propositivo y es en este sentido que nuestra "lucha" (que palabra más prostituida) debe apuntar a fijarnos plazos para presentar propuestas a todos los actores sociales que nos rodean, además de entender que los universitarios no son el grupo "iluminado", escogido por un ente superior para dirigir a la masa... nos hace falta comprender que estas demandas casi históricas del movimiento se logran de la mano del poblador, de la dueña de casa, de nuestros padres y hermanos, de nuestros vecinos y de toda persona que está igual o más indignada que nosotros por un sistema que fue construído pasándole por encima a todos y cada uno de nosotros... un sistema en el que ninguno de nosotros decidió vivir.
 
- [1]: http://www.cabargas.com/upload-center/uploads/paro-jgm.jpg
+ [1]: http://cabargas.com/images/paro-jgm.jpg

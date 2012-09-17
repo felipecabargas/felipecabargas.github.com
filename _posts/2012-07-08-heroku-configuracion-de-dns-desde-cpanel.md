@@ -44,8 +44,8 @@ Una vez dentro de tu panel de aplicaciones, haz clic en la pestaña “General I
 Espero que esto sea útil !
 
  
- [1]: http://www.cabargas.com/blog/wp-content/uploads/2012/07/cpanel1.png
- [2]: http://www.cabargas.com/blog/wp-content/uploads/2012/07/registro1.png
- [3]: http://www.cabargas.com/blog/wp-content/uploads/2012/07/registros2.png
- [4]: http://www.cabargas.com/blog/wp-content/uploads/2012/07/app.png
- [5]: http://www.cabargas.com/blog/wp-content/uploads/2012/07/domains.png
+ [1]: http://cabargas.com/images/cpanel1.png
+ [2]: http://cabargas.com/images/registro1.png
+ [3]: http://cabargas.com/images/registros2.png
+ [4]: http://cabargas.com/images/app.png
+ [5]: http://cabargas.com/images/domains.png

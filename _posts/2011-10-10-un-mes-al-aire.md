@@ -24,4 +24,4 @@ Un abrazo.
 **@juanpintoduran**
 
  
- [2]: http://cabargas.com/blog/wp-content/uploads/2011/10/visitantes.png
+ [2]: http://cabargas.com/images/visitantes.png

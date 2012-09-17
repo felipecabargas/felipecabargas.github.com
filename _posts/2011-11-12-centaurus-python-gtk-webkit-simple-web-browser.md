@@ -23,8 +23,6 @@ Actualmente, es la versión 0.2 (entiendase que faltan MUCHÍSIMAS COSAS) pero m
 
 Aquí pueden ver algunas tomas de pantalla:
 
-[![][1]][1]
-
 [![][2]][2]
 
 [![][3]][3]
@@ -42,11 +40,10 @@ Si no tienes git instalado está en los repositorios de Ubuntu y Fedora:
 `sudo apt-get install git`  
 `sudo yum install git`
 
-Ojalá lo disfruten… y si quieres desarrollar… Just Fork Me ![:D][5] 
+Ojalá lo disfruten… y si quieres desarrollar… Just Fork Me !
 
+
+ [2]: http://cabargas.com/images/centaurus.png
+ [3]: http://cabargas.com/images/google.png
+ [4]: http://www.cabargas.com/centaurus
  
- [1]: http://www.cabargas.com/blog/wp-content/uploads/2011/11/Screenshot-from-2012-06-07-172741.png
- [2]: http://www.cabargas.com/blog/wp-content/uploads/2011/11/centaurus.png
- [3]: http://www.cabargas.com/blog/wp-content/uploads/2011/11/google.png
- [4]: http://www.felipecabargas.tk/centaurus
- [5]: http://www.cabargas.com/blog/wp-includes/images/smilies/icon_biggrin.gif

@@ -31,5 +31,5 @@ Sería mejor una vista general de los últimos chats en una pestaña (como en Wi
 Fuera de los aspectos de UI/UX, quedo a la espera de paquetes de 64-bit para Fedora (en el repositorio sobre todo) y la inclusión de archivos .tar.gz en la página de descargas para los usuarios de otras distros como Arch
 
  
- [2]: http://www.cabargas.com/blog/wp-content/uploads/2012/06/Screenshot-from-2012-06-16-210026.png
- [3]: http://www.cabargas.com/blog/wp-content/uploads/2012/06/Screenshot-from-2012-06-16-205803.png
+ [2]: http://cabargas.com/images/Screenshot-from-2012-06-16-210026.png
+ [3]: http://cabargas.com/images/Screenshot-from-2012-06-16-205803.png

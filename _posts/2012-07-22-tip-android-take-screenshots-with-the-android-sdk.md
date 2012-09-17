@@ -48,8 +48,8 @@ y luego en ‘Save’… si quieres tomar más Screenshots, simplemente presiona
 [![][6]][6]
 
  
- [2]: http://www.cabargas.com/blog/wp-content/uploads/2012/07/apps.png
- [3]: http://www.cabargas.com/blog/wp-content/uploads/2012/07/desarrollo.png
- [4]: http://www.cabargas.com/blog/wp-content/uploads/2012/07/depuration.png
- [5]: http://www.cabargas.com/blog/wp-content/uploads/2012/07/Screenshot-from-2012-07-22-203748.png
- [6]: http://www.cabargas.com/blog/wp-content/uploads/2012/07/Screenshot-from-2012-07-22-203807.png
+ [2]: http://cabargas.com/images/apps.png
+ [3]: http://cabargas.com/images/desarrollo.png
+ [4]: http://cabargas.com/images/depuration.png
+ [5]: http://cabargas.com/images/Screenshot-from-2012-07-22-203748.png
+ [6]: http://cabargas.com/images/Screenshot-from-2012-07-22-203807.png

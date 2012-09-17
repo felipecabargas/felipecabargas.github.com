@@ -25,5 +25,5 @@ Back
 
  
  [1]: http://mockingbirdev.com
- [3]: http://www.cabargas.com/blog/wp-content/uploads/2012/08/chuck-front1.png
- [4]: http://www.cabargas.com/blog/wp-content/uploads/2012/08/general-back.png
+ [3]: http://cabargas.com/images/chuck-front1.png
+ [4]: http://cabargas.com/images/general-back.png

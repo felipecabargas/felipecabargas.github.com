@@ -30,8 +30,8 @@ Junto con esto, y para quienes usen la beta de Oneiric, les dejo el link al tema
 [Adwaita + Ambiance = Adwance][5]
 
  
- [1]: http://cabargas.com/blog/wp-content/uploads/2011/09/stripes2.png
- [2]: http://cabargas.com/blog/wp-content/uploads/2011/09/stripes.png
- [3]: http://cabargas.com/blog/wp-content/uploads/2011/09/stripes-alt.png
- [4]: http://cabargas.com/blog/wp-content/uploads/2011/09/stripes-alt2.png
- [5]: http://thedeviantmars.deviantart.com/art/Adwance-gtk3-207704533?q=boost%3Apopular&gtk3&qo=5
+ [1]: http://cabargas.com/images/stripes2.png
+ [2]: http://cabargas.com/images/stripes.png
+ [3]: http://cabargas.com/images/stripes-alt.png
+ [4]: http://cabargas.com/images/stripes-alt2.png
+ [5]: http://thedeviantmars.deviantart.com/art/Adwance-gtk3-207704533?q=boost%3Apopular&gtk3&qo=5|

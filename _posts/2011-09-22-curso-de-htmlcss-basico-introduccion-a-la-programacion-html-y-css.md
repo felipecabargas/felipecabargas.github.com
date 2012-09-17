@@ -34,4 +34,4 @@ CSS o “Cascading Style Sheets” *(Hojas de Estilos en Cascada) *es otro lengu
 ##### Proxima Clase: “HTML I | Páginas Web de ejemplo y etiquetas básicas”
 
  
- [2]: http://cabargas.com/blog/wp-content/uploads/2011/09/Pantallazo-de-2011-09-22-004740.png
+ [2]: http://cabargas.com/images/Pantallazo-de-2011-09-22-004740.png
