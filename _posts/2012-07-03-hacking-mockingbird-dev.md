@@ -16,11 +16,7 @@ Hoy terminé de levantar el sitio de la empresa de la que les hablé [hace un ti
 
 [![][3]][3]
 
-Homepage
-
-[![][4]][4]
-
-Team Members Bio – Bootstrap included -
+**Homepage**
 
 Obviamente el sitio está en fase inicial, pero pueden visitarlo (y contactarnos obvio) en:
 
