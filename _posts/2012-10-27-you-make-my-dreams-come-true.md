@@ -28,7 +28,7 @@ Es extraño como se da vuelta la tortilla en la vida... hace un tiempo estaba to
 
 Y paf! de un momento a otro aparece Minka (que me ha dado más dolores de cabeza que otra cosa) y con eso la vorágine de cosas...
 
-En un minuto indeterminado del semestre entre la vuelta a clases post-paro y la campaña electoral (#YoConstruyoBachi) todo cambia para bien, me empezó a ir como siempre debió irme en la U y la alegría se tomó cada rincón de este humilde servidor.
+En un minuto indeterminado del semestre entre la vuelta a clases post-paro y la campaña electoral (#YoConstruyoBachi) todo cambia para bien, me empezó a ir como siempre debió irme en la U y la alegría se tomó cada rincón de este humilde servidor... Desde tonterías como estar tranquilo con la "pega" hasta cosas fundamentales como esa persona que me hace sonreír día a día ultimamente.
 
 Son buenos días para mi, pero eso significa que debo prolongarlo y es por eso que ahora más que nunca me sacaré en buen chileno 'la cresta' para conseguir mis objetivos: Ser el Steve Jobs chileno (#okno)... Vamos a aterrizar la pelota, quiero ser feliz con lo que hago y con quienes tengo a mi lado.
 
