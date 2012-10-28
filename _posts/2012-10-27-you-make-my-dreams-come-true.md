@@ -22,7 +22,7 @@ juanpintoduran@life $ '(500) Days of Summer' = Una película satírica del amor 
 
 Pero para mí es también el recuento de algo extraño pero único, de algo inolvidable.
 
-Que película más trillada de paso, como que todos los esnobistas 'hipsters' chilenos la han visto y le hacen queques a Gordon-Levitt y Deschanel (Igual ta como quiere Zooey), pero no puedo dejar de acordarme de esta escena (en que Tom Hansen -"de Margate, New Jersey"- recorre la ciudad con la canción con que nombré este post de fondo) mañana a mañana desde hace 1 semana.
+Que película más trillada de paso, como que todos los esnobistas 'hipsters' chilenos la han visto y le hacen queques a Gordon-Levitt y Deschanel (Igual ta como quiere Zooey), pero no puedo dejar de acordarme de esta escena mañana a mañana desde hace 1 semana (en que Tom Hansen -"de Margate, New Jersey"- recorre la ciudad con la canción con que nombré este post de fondo).
 
 Es extraño como se da vuelta la tortilla en la vida... hace un tiempo estaba todo mal (final del primer semestre) sin proyectos, estresado, complicado en la U y de paso sin esa sonrisa estúpida que ahora tengo pegada en la cara.
 
