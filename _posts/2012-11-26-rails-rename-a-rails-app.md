@@ -51,3 +51,5 @@ rm -r "vendor/plugins/Rename"
 y darle 'y' a todo.
 
 Espero que les sirva (!)
+
+  [1]: http://cabargas.com/images/railsapp.png
