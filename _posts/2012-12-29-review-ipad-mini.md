@@ -42,6 +42,14 @@ En cuanto a la experiencia debo decir que el iPad Mini ES exquisito en jerga vul
 
 [![][6]][6]
 
+**Conclusión**
+
+Así el iPad Mini se configura como un gadget potente en su gama, que se la puede con las tareas básicas que debería cumplir un tablet y que por cierto, si disponemos de conexión de internet constante (ya mediante 3G, WiFi público o Hotspot) nos ahorra el peso de la laptop en la mochila y nos permite independencia del computador personal al menos en tareas básicas.
+
+Insisto en mi argumento eterno de que una tablet no es un PC touch y por tanto no lo reemplaza, cabe destacar que iOS es un Sistema Operativo móvil y cómo tal es comparable con Android y Windows Phone, pero en ningún caso con OS X, Win8 o Linux.
+
+En definitiva, conveniente, alcanzable en precio (200 lucas chilenas -poco más de 400 USD-) y eficaz en las tareas que al menos yo le exijo cumplir a una tableta.
+
   [1]: http://cabargas.com/images/ipadmini.png
   [2]: http://cabargas.com/images/siri.png
   [3]: http://cabargas.com/images/lightning.jpg
