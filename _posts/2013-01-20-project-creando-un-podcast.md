@@ -24,7 +24,7 @@ Pero hoy y motivado por una app de iOS que pretendía hacerlas de suite de radio
 
 Así que volví al inicio y me puse a leer las guias para la publicación de un Podcast en iTunes (resultó ser un RSS Feed común y corriente con algunas especificaciones para que iTunes y el iTunes Store lo muestren como corresponde).
 
-Es por esto que para no dejarlo de lado de nuevo, y escribo este post a modo de promesa (?) y los dejo invitados a sumarse al proyecto con ideas, temas o incluso aparecer (aún no defino si será de audio o video), para eso simplemente envien un email a <felipe@cabargas.com> o enviando un tuit como reply a mi cuenta @juanpintoduran.
+Es por esto que para no dejarlo de lado de nuevo, y escribo este post a modo de promesa (?) y los dejo invitados a sumarse al proyecto con ideas, temas o incluso aparecer (aún no defino si será de audio o video), para eso simplemente envien un email a felipe@cabargas.com o enviando un tuit como reply a mi cuenta @juanpintoduran.
 
 Un abrazo a todos y espero que lo escuchen. Estará disponible (si Dios y Apple quieren) dentro de los próximos 15 días (!)
 
