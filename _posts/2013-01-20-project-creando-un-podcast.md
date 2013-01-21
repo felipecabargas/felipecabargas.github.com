@@ -28,4 +28,4 @@ Es por esto que para no dejarlo de lado de nuevo, y escribo este post a modo de 
 
 Un abrazo a todos y espero que lo escuchen. Estará disponible (si Dios y Apple quieren) dentro de los próximos 15 días (!)
 
- [1]: http://cabargas.com/images/podcast.png
+ [1]: http://cabargas.com/images/podcast.png 
