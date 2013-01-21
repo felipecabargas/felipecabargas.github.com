@@ -4,7 +4,7 @@ title: '[DESIGN] MD Business Cards'
 excerpt:
 layout: post
 category:
-  - Diseño
+  - Design
 tags:
   - design
   - illustrator

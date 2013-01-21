@@ -4,7 +4,7 @@ title: Ubuntu Faenza Theme for iOS
 excerpt:
 layout: post
 category:
-  - Diseño
+  - Design
 tags:
   - faenza
   - ios

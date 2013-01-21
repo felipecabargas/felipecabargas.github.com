@@ -4,6 +4,8 @@ permalink: /:year/:month/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
+safe: true
+lsi: false
 pygments: true
 markdown: rdiscount
 

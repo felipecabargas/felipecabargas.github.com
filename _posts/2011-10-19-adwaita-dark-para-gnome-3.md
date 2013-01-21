@@ -4,7 +4,7 @@ title: Adwaita Dark para Gnome 3
 excerpt:
 layout: post
 category:
-  - Diseño
+  - Design
 tags:
   - GNOME 3
   - linux

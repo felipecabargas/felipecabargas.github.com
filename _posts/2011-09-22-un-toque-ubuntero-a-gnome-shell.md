@@ -4,7 +4,7 @@ title: Un toque ubuntero a GNOME-Shell
 excerpt:
 layout: post
 category:
-  - Diseño
+  - Design
 tags:
   - edicion
   - gimp

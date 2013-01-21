@@ -4,7 +4,7 @@ title: '[DISEÑO] Mockingbird Development'
 excerpt:
 layout: post
 category:
-  - Diseño
+  - Design
 tags:
   - design
   - illustrator
