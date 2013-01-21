@@ -4,7 +4,7 @@ title: '[HEROKU] Configuración de DNS desde CPANEL'
 excerpt:
 layout: post
 category:
-  - Programacion
+  - Programación
 tags:
   - cpanel
   - dns

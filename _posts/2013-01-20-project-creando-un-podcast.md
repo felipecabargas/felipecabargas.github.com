@@ -1,10 +1,10 @@
 ---
 author: juanpintoduran
-title: '[PROJECT] Empezando un Podcast de tecnología'
+title: '[PROYECTOS] Empezando un Podcast de tecnología'
 excerpt:
 layout: post
 category:
-  - Projects
+  - Proyectos
 tags:
   - iTunes
   - iPad Mini

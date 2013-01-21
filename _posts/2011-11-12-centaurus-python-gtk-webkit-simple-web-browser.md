@@ -4,7 +4,7 @@ title: 'Centaurus: Python, GTK+ & WebKit Simple Web Browser'
 excerpt:
 layout: post
 category:
-  - Programacion
+  - Programación
 tags:
   - centaurus
   - fork

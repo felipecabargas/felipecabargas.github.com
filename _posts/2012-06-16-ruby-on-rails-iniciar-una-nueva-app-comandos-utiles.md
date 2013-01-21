@@ -4,7 +4,7 @@ title: 'Ruby on Rails: Iniciar una nueva app - Comandos útiles'
 excerpt:
 layout: post
 category:
-  - Programacion
+  - Programación
 tags:
   - rails
   - ruby

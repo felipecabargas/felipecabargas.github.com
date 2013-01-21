@@ -4,7 +4,7 @@ title: '[HACKING] Mockingbird Dev'
 excerpt:
 layout: post
 category:
-  - Programacion
+  - Programación
 tags:
   - design
   - mockingbird

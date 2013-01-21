@@ -4,7 +4,7 @@ title: '[TIP] iOS: Set an icon for Safari Mobile Web Apps'
 excerpt:
 layout: post
 category:
-  - Programacion
+  - Programación
 tags:
   - css
   - html

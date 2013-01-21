@@ -4,7 +4,7 @@ title: '[TIP] Set a “.dev” domain for your project'
 excerpt:
 layout: post
 category:
-  - Programacion
+  - Programación
 tags:
   - domains
   - hosts

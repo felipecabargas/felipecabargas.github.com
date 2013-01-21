@@ -7,7 +7,7 @@ title: >
 excerpt:
 layout: post
 category:
-  - Programacion
+  - Programación
 tags:
   - html
   - programacion
