@@ -2,7 +2,7 @@
 layout: post
 author: juanpintoduran
 title: "Y nos fuimos a Jekyll"
-category:
+categories:
   - Jekyll
 tags:
   - blog

@@ -3,8 +3,8 @@ author: juanpintoduran
 title: '[HACKING] Mockingbird Dev'
 excerpt:
 layout: post
-category:
-  - Programación
+categories:
+  - Hacking
 tags:
   - design
   - mockingbird

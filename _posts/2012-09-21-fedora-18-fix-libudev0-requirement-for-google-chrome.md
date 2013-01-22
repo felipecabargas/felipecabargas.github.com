@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[Fedora 18] Fix "libudev.so.0" requirement for Google Chrome / Chromium'
 excerpt:
 layout: post
-category:
+categories:
   - Linux
 tags:
   - Fedora

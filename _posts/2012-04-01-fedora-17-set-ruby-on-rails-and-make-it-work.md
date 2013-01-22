@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[Fedora 17] Set Ruby on Rails and make it work'
 excerpt:
 layout: post
-category:
+categories:
   - Linux
 tags:
   - Fedora

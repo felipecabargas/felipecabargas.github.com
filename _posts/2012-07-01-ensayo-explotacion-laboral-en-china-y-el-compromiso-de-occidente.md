@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[ENSAYO] Explotación laboral en China y el compromiso de Occidente '
 excerpt:
 layout: post
-category:
+categories:
   - Off-Topic
 tags:
   - china

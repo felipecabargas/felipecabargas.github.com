@@ -3,7 +3,7 @@ author: juanpintoduran
 title: 'Skype 4.0 for Linux - Algo huele mal (y no es Microsoft)'
 excerpt:
 layout: post
-category:
+categories:
   - Linux
 tags:
   - Fedora

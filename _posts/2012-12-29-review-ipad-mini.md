@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[REVIEW] iPad Mini'
 excerpt:
 layout: post
-category:
+categories:
   - Review
 tags:
   - iOS

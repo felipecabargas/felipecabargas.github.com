@@ -3,7 +3,7 @@ author: juanpintoduran
 title: Ubuntu Faenza Theme for iOS
 excerpt:
 layout: post
-category:
+categories:
   - Design
 tags:
   - faenza

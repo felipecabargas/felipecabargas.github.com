@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '#unresentidomenos'
 excerpt:
 layout: post
-category:
+categories:
   - Off-Topic
 tags:
   - politica

@@ -3,7 +3,7 @@ date: "2012-08-31 01:30"
 layout: post
 title: "No sólo del bachi vive el bachiller..."
 description: ""
-category:
+categories:
   - Vida Diaria
 tags:
   - bachillerato

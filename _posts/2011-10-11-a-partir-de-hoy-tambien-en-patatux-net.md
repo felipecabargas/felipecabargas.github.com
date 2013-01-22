@@ -3,7 +3,7 @@ author: juanpintoduran
 title: A partir de hoy también en Patatux.net
 excerpt:
 layout: post
-category:
+categories:
   - Off-Topic
 tags:
   - Off-Topic

@@ -3,7 +3,7 @@ date: "2012-08-28 12:30"
 layout: post
 title: "Experimento Jekyll: Día 1"
 description: ""
-category:
+categories:
   - Jekyll
 tags:
   - blog

@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[TIP] LINUX: Set-up a service to start on boot'
 excerpt:
 layout: post
-category:
+categories:
   - Linux
 tags:
   - apache

@@ -6,8 +6,8 @@ title: >
   CSS
 excerpt:
 layout: post
-category:
-  - Programación
+categories:
+  - Hacking
 tags:
   - html
   - programacion

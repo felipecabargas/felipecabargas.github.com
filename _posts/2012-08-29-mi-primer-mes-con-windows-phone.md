@@ -3,7 +3,7 @@ date: "2012-08-28 12:30"
 layout: post
 title: "Mi primer mes con Windows Phone"
 description: ""
-category:
+categories:
   - Windows Phone
 tags:
   - windows

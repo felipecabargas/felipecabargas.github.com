@@ -3,8 +3,8 @@ author: juanpintoduran
 title: '[HEROKU] Configuración de DNS desde CPANEL'
 excerpt:
 layout: post
-category:
-  - Programación
+categories:
+  - Hacking
 tags:
   - cpanel
   - dns

@@ -3,7 +3,7 @@ author: juanpintoduran
 title: La peor de las malas bromas
 excerpt:
 layout: post
-category:
+categories:
   - Vida Diaria
 tags:
   - democracia

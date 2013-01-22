@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[ENSAYO] Análisis de la violencia en los estadios tras la aplicación del “Plan Estadio Seguro” '
 excerpt:
 layout: post
-category:
+categories:
   - Off-Topic
 tags:
   - desobediencia

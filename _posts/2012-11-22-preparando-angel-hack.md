@@ -3,8 +3,8 @@ author: juanpintoduran
 title: '[HACKING] Preparando Angel Hack'
 excerpt:
 layout: post
-category:
-  - Programación
+categories:
+  - Hacking
 tags:
   - Hackathon
   - AngelHackSCL

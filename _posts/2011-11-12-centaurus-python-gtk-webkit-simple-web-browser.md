@@ -3,8 +3,8 @@ author: juanpintoduran
 title: 'Centaurus: Python, GTK+ & WebKit Simple Web Browser'
 excerpt:
 layout: post
-category:
-  - Programación
+categories:
+  - Hacking
 tags:
   - centaurus
   - fork

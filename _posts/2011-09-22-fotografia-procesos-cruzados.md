@@ -3,7 +3,7 @@ author: juanpintoduran
 title: 'Fotografía: Procesos Cruzados'
 excerpt:
 layout: post
-category:
+categories:
   - Fotografia
 tags:
   - edicion

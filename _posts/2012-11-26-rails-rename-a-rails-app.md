@@ -3,8 +3,8 @@ author: juanpintoduran
 title: '[HACKING] Renaming a Rails app'
 excerpt:
 layout: post
-category:
-  - Programación
+categories:
+  - Hacking
 tags:
   - Hackathon
   - AngelHackSCL

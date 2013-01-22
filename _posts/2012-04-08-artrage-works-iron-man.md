@@ -3,7 +3,7 @@ author: juanpintoduran
 title: '[ArtRage Works] Iron Man'
 excerpt:
 layout: post
-category:
+categories:
   - Off-Topic
 tags:
   - bamboo
