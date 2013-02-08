@@ -858,3 +858,15 @@ pre {
     margin-right: 360px;
   }
 }
+
+ul.posts > li > p > a > img{
+  display: none;
+}
+
+.links{
+  background-color: #BADA55;
+  text-align: center;
+  margin-bottom: 25px;
+  padding: 5%;
+  border-radius: 5px;
+}
