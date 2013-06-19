@@ -19,5 +19,5 @@ tagline: Supporting tagline
 
 <div class="links">
   <h3>Enlaces</h3>
-  <span>Edoome</span> &raquo; <a href="http://www.edoome.com/">Ir</a> | <span>Blog de Nicolás Cabargas</span> &raquo; <a href="http://nicolascabargas.blogspot.com/">Ir</a> | <span>Blog de Pía Gajardo P.</span> &raquo; <a href="http://pithaisautumn.wordpress.com/">Ir</a> | <span>Proyecto Fedora en Español</span> &raquo; <a href="http://fedoraproject.org/es/">Ir</a> |<span>Enlazar es Bueno</span> &raquo; <a href="http://www.enlazaresbueno.cl/">Ir</a>
+  <span>Squape</span> &raquo; <a href="http://www.squape.com/">Ir</a> | <span>Blog de Nicolás Cabargas</span> &raquo; <a href="http://www.cabargas.cl/">Ir</a> | <span>Blog de Pía Gajardo</span> &raquo; <a href="http://haycachao.wordpress.com/">Ir</a>
 </ul>
