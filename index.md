@@ -1,7 +1,7 @@
 ---
 layout: page
-title: pase y lea... sin compromiso
-tagline: Supporting tagline
+title: cabargas@blog $
+tagline: ...pase y lea sin compromiso
 ---
 {% include JB/setup %}
 
