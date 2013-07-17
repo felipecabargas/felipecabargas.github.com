@@ -1,7 +1,7 @@
 ---
 layout: page
-title: cabargas@blog $
-tagline: ...pase y lea sin compromiso
+title: Hacking for food
+tagline: blog de Felipe Cabargas
 ---
 {% include JB/setup %}
 
