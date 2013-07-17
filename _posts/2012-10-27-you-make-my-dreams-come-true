@@ -15,7 +15,7 @@ Hola gente, les vengo a decir incoherencias de madrugada.
 
 AVISO DE UTILIDAD PÚBLICA: Si quiere mantener sus neuronas intactas deténgase aquí.
 
-{% highlight bash %}
+{% highlight bash linenos %}
 juanpintoduran@life $ '(500) Days of Summer' = Una película satírica del amor occidental
 > true
 {% endhighlight %}

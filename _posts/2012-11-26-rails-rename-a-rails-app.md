@@ -16,13 +16,13 @@ post_format: [ ]
 
 Estando en el AngelHack y mientras levantabamos el proyecto -PRONTO MÁS NOVEDADES- con mi partner Federico nos vimos en el problema de encontrar un buen nombre (y en ingles) que reflejara de manera directa lo que queríamos y que además cumpliera con el requisito de estar disponible como dominio '.com' así que generé la app con el nombre 'AngelHack'.
 
-{% highlight bash %}
+{% highlight bash linenos %}
 rails new angelhack
 {% endhighlight %}
 
 El problema de esto es que archivos esenciales del proyecto (como controladores entre otros) se generan con esta variable.  Especificamente afecta a los siguientes archivos:
 
-{% highlight text %}
+{% highlight text linenos %}
 config/application.rb
 config/environment.rb
 config/environments/development.rb
@@ -36,7 +36,7 @@ config/initializers/session_store.rb
 
 Cuando finalmente decidimos que se llamaría BikeTripin, sinceramente me dió paja cambiarlos así que esperé y hoy ya habiendo terminado la Hackathon me dispuse a buscar una forma de hacerlo más sencilla y la quiero dejar para todos. Gal Koren ([Gal Koren @ GitHub][2]) creó un plugin que nos hace esta pega de la forma más sencilla posible, asi que abran una terminal y manos a la obra:
 
-{% highlight bash %}
+{% highlight bash linenos %}
 cd path/to/app
 rails plugin install git@github.com:get/Rename.git
 rails g rename_to NewName
@@ -44,7 +44,7 @@ rails g rename_to NewName
 
 Y luego si queremos deshacernos del plugin:
 
-{% highlight bash %}
+{% highlight bash linenos %}
 rm -r "vendor/plugins/Rename"
 {% endhighlight %}
 

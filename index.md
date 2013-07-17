@@ -9,15 +9,21 @@ tagline: blog de Felipe Cabargas
 <!-- <hr> -->
 
 <h3 style="text-align: center;">Artículos</h3>
-<ul class="posts">
+<div class="posts">
   {% for post in site.posts %}
-    <li>
-      <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-    </li>
+    <h5 class="subheader"><span class="subheader label">{{ post.date | date_to_string }}</span> <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h5>
+    <hr />
   {% endfor %}
-</ul>
+</div>
 
-<div class="links">
-  <h3>Enlaces</h3>
-  <span>Squape</span> &raquo; <a href="http://www.squape.com/">Ir</a> | <span>Blog de Nicolás Cabargas</span> &raquo; <a href="http://www.cabargas.cl/">Ir</a> | <span>Blog de Pía Gajardo</span> &raquo; <a href="http://haycachao.wordpress.com/">Ir</a>
-</ul>
+<div class="links panel">
+  <h3 style="text-align: center;">Enlaces</h3>
+  <ul class="button-group even two-up">
+    <li>
+      <a href="http://www.squape.com/" class="button">SQUAPE</a> 
+    </li>
+    <li>
+      <a href="http://www.cabargas.cl/" class="button">Nicolás Cabargas</a>
+    </li>
+  </ul>
+</div>
