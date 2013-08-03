@@ -41,8 +41,6 @@ Pero basta de lo que me pasa, mucho tiempo habrá para exponer eso. Ahora lo que
  - A Nelson, mi partner entrañable que más allá de desaparecerse y tener un pésimo servicio telefónico de Movistar, es una excelente persona.
  
  - A mis amigos en general, al Osso por siempre pescar los links y decirme que los sitios están bien, a la Cata por decir 'mish' cuando en realidad no creo que entienda de que cresta le hablo y a la Pachi por SIEMPRE SIEMPRE tener una palabra de aliento y apoyarme en mis proyectos (tengo mi rollo de fotos [siempre cerca][4]).
- 
- - Finalmente y super importante, a mi polola. Carlita, te las has mandado. Aguantas cada uno de mis planes y me das tu opinión sincera sobre cada uno de los proyectos que se me ocurren, buenos o malos. Eso se agradece día a día. Te amo.
 
 Bienvenidos sean todos a visitarnos en [SQUAPE.com][7] (no hay descuentos para amigos y familiares).
 
