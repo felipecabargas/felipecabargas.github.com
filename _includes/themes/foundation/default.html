@@ -14,17 +14,12 @@
     <!-- Le styles -->
     <link href="{{ ASSET_PATH }}/stylesheets/foundation.min.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/stylesheets/app.css" rel="stylesheet" type="text/css" media="all">
+    <link rel="shortcut icon" href="http://cabargas.com/newlogo.png">
+    <link rel="apple-touch-icon" href="http://cabargas.com/newlogo.png"/>    
 
-    <!-- Le fav and touch icons -->
-  <!-- Update these with your own images
-    <link rel="shortcut icon" href="images/favicon.ico">
-    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-  -->
   </head>
 
-  <body>
+  <body style="background: #272727;">
 
   <div class="row contain-to-grid">
       <nav class="top-bar">
@@ -54,14 +49,19 @@
 
       {{ content }}
 
-      <footer>
-        <p>&copy; {{ site.author.name }} 2011-2013 
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://foundation.zurb.com" target="_blank" title="The most advanced responsive front-end framework in the world.">Zurb's Foundation 3</a>
-        </p>
-      </footer>
-
     </section> <!-- /container -->
+
+    <div class="row contain-to-grid" style=" padding-top: 20px; height: 100px; background: #0480be; text-align: center; color: whiteSmoke;">
+      <footer>
+        <div class="row">
+          <div class="six columns">
+          </div>
+          
+          <div class="six columns">
+            <img src="http://www.cabargas.com/banner.png" width="250px" height="auto">
+          </div>
+      </footer>
+    </div>
 
     {% include JB/analytics %}
   </body>

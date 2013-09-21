@@ -12,7 +12,10 @@
    Shared Styles
 ----------------------------------------- */
 header{
-    background: #0480be;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background: #0480be;
+  text-align: center;
 }
 
 header * {

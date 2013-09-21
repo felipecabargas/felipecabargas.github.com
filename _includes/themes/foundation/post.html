@@ -1,13 +1,13 @@
 <header>
   <div class="row">
-    <div class="eight columns">
+    <div class="twelve columns">
     <h1>{{ page.title }} </h1>
     {% if page.tagline %} <h4 class="subheader">{{ page.tagline }}</h4>{% endif %}
     </div>
   </div>
 </header>
 
-<div class="row" style="margin-top: 20px;">
+<div class="row" style="margin-top: 20px; color: #DEDEDE;">
   <div class="eight columns">
     {{ content }}
     <hr>
@@ -43,3 +43,15 @@
   {% endunless %}  
   </div>
 </div>
+
+<style>
+
+  code, .highlight {
+    background: #080808;
+  }
+
+  h1, h2, h3, h4, h5, h6, pre, p{
+    color: whiteSmoke;
+  }
+
+</style>
