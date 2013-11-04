@@ -16,19 +16,19 @@ La primera opcion era renombrar el modelo y así resources lo haría por mi pero
 
 Rake me arrojaba paths de esta forma ( *rake routes* ):
 
-{% highlight ruby linenos %}
+{% highlight ruby   %}
 location_members GET /location/:id/members(.:format) members#index
 {% endhighlight %}
 
 y yo las quería así:
 
-{% highlight ruby linenos %}
+{% highlight ruby   %}
 location_point_of_sales GET /location/:id/pos(.:format) members#index
 {% endhighlight %}
 
 Para lograrlo abrimos *routes.rb* encontramos el resource del modelo en cuestión y lo cambiamos desde:
 
-{% highlight ruby linenos %}
+{% highlight ruby   %}
 resources :locations do
   resources :members
 end
@@ -36,7 +36,7 @@ end
 
 a:
 
-{% highlight ruby linenos %}
+{% highlight ruby   %}
 resources :locations do
   resources :members, :as => "point_of_sales", :path => "pos"
 end

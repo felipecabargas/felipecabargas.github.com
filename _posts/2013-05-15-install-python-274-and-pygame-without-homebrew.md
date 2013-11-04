@@ -23,7 +23,7 @@ Durante el proceso sin embargo es necesario repetir algunos procesos de los que 
 
 Tras instalar todo ejecuten los siguientes comandos:
 
-{% highlight bash linenos %}
+{% highlight bash   %}
 cd /Library/Frameworks/SDL.framework/Headers
 ln -s SDL ./
 export CC='/usr/bin/gcc'
@@ -34,7 +34,7 @@ export ARCHFLAGS='-arch i386'
 
 Ahora para instalar PyGame (requerido):
 
-{% highlight bash linenos %}
+{% highlight bash   %}
 curl -O http://www.pygame.org/ftp/pygame-1.9.1release.tar.gz
 tar -xzf pygame-1.9.1release.tar.gz
 cd pygame-1.9.1release/
@@ -45,7 +45,7 @@ python setup.py install
 
 Para instalar PyObjC (requerido):
 
-{% highlight bash linenos %}
+{% highlight bash   %}
 env CC=clang easy_install -U pyobjc-core
 env CC=clang easy_install -U pyobjc
 {% endhighlight %}
