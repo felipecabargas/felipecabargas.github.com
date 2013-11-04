@@ -33,3 +33,6 @@ theme:
 
   # Toggle "Postings are my own" disclaimer in footer
   show_disclaimer: true
+
+paginate: 5
+paginate_path: ":num"

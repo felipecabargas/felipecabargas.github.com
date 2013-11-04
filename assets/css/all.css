@@ -5,3 +5,13 @@
 {% include css/screen.css %}
 {% include css/layout.css %}
 {% include css/syntax.css %}
+
+#post > p > a > img{
+  width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+#home > p > a > img{
+  display: none;
+}
