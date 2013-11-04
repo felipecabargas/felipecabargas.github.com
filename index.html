@@ -6,6 +6,7 @@ title: pase y lea sin compromiso
 <div id="home">
   <h2><i class="icon-bookmark"></i> Blog Posts</h2>
     {% for post in paginator.posts %}
+      <hr/>
       <p class="author">
         <h4>
           <small class="date">{{ post.date | date_to_string }}</small>
@@ -15,21 +16,20 @@ title: pase y lea sin compromiso
       <p>
         {{ post.content | truncatewords: 50 }}
       </p>
-      <hr/>
     {% endfor %}
 </div>
-
+<hr/>
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
+    <a href="/{{ paginator.previous_page }}" class="previous">Previous</a>
   {% else %}
-    <span class="previous">Previous</span>
+    <span class="none"></span>
   {% endif %}
-  <span class="page_number ">- {{ paginator.page }} of {{ paginator.total_pages }} -</span>
+  <span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-    <a href="/page{{ paginator.next_page }}" class="next">Next</a>
+    <a href="/{{ paginator.next_page }}" class="next">Next</a>
   {% else %}
-    <span class="next ">Next</span>
+    <span class="none"></span>
   {% endif %}
 </div>
