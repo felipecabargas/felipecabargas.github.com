@@ -10,7 +10,7 @@ tags:
   - wp
   - reviews
 ---
-{% include JB/setup %}
+
 
 [![][1]][1]
 

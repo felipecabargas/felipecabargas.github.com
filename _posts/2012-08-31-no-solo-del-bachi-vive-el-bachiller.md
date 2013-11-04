@@ -9,8 +9,6 @@ tags:
   - bachillerato
   - movimiento estudiantil
 ---
-{% include JB/setup %}
-
 [![][1]][1]
 
 El paro en Bachillerato ya va para el mes (se votó completar 3 semanas de paro) y el trabajo ha sido constante... Las personas que han trabajado en las comisiones han cumplido una labor extenuante y que a veces pareciera no dar frutos, pero que en definitiva está cumpliendo el objetivo principal que nos propusimos como Programa de Bachillerato desde el día 0 de la movilización: "articularnos como movimiento".

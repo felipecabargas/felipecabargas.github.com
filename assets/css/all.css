@@ -16,6 +16,10 @@
   display: none;
 }
 
+#home > em > p > a > img{
+  display: none;
+}
+
 a.next, a.previous{
   background: #3498db;
   padding: 5px;

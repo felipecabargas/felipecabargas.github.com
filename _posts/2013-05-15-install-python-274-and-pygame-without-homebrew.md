@@ -34,7 +34,7 @@ export ARCHFLAGS='-arch i386'
 
 Ahora para instalar PyGame (requerido):
 
-{% highlight bash linenos %} 
+{% highlight bash linenos %}
 curl -O http://www.pygame.org/ftp/pygame-1.9.1release.tar.gz
 tar -xzf pygame-1.9.1release.tar.gz
 cd pygame-1.9.1release/

@@ -23,5 +23,5 @@ Estoy recién encajandome pero escribo este post como una promesa de puras alegr
 
 "Oye y si se toman Edoome los pingüinos (?)"
 
- [1]: http://cabargas.com/images/edoome.jpg 
+ [1]: http://cabargas.com/images/edoome.png 
  [2]: http://edoome.com

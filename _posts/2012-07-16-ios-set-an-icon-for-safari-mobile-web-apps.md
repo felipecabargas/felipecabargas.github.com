@@ -13,7 +13,7 @@ tags:
   - programacion
   - rails
 ---
-{% include JB/setup %}
+
 
 Para cuando hagas tu web móvil y quieras que cuando el usuario guarde tu página a su inicio salga tú icono, simplemente agrega:
 

@@ -36,3 +36,4 @@ theme:
 
 paginate: 5
 paginate_path: ":num"
+permalink: /:year/:month/:title

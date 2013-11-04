@@ -11,9 +11,6 @@ tags:
   - Podcast
 post_format: [ ]
 ---
-
-[![][1]][1]
-
 Hace un buen tiempo, y tras la adquisición de una Sony Bloggie como regalo de cumpleaños tuve en mente la creación de un podcast relacionado con tecnología, programación (basicamente, los temas de este blog).
 
 El gran problema era grabarme, editarlo que quedara decente, con buen audio y que cumpliera el mínimo estético de otros podcast como RailsCast o siendo algo aspiracional 90 Seconds on The Verge.
