@@ -33,11 +33,15 @@ y luego activa ‘Depuración USB’
 
 Ahora, con el dispositivo conectado a un puerto USB, vamos a una terminal y vamos al directorio de la SDK (normalmente será el siguiente):
 
+{% highlight bash %}
 `~/android-sdk-linux/tools/`
+{% endhighlight %}
 
 Y luego ejecutamos,
 
+{% highlight bash %}
 `./ddms`
+{% endhighlight %}
 
 Una vez ejecutado, hacemos clic en el dispositivo en el menú izquierdo y luego en la barra de menú vamos a ‘Device’-> ‘Screen Capture…’ (o Ctrl+S) y luego en ‘Save’… 
 

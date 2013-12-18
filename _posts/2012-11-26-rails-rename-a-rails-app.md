@@ -22,16 +22,18 @@ rails new angelhack
 
 El problema de esto es que archivos esenciales del proyecto (como controladores entre otros) se generan con esta variable.  Especificamente afecta a los siguientes archivos:
 
-{% highlight text   %}
-config/application.rb
-config/environment.rb
-config/environments/development.rb
-config/environments/test.rb
-config/environments/production.rb
-config/routes.rb
-config.ru
-config/initializers/secret_token.rb
-config/initializers/session_store.rb
+{% highlight text %}
+config
+  ├── application.rb
+  ├── environment.rb
+  ├── routes.rb
+  ├── enviroments/
+  │       ├── development.rb
+  │       ├── test.rb          
+  │       └── production.rb
+  └── initializers/
+          ├── secret_token.rb
+          └── session_store.rb
 {% endhighlight %}
 
 Cuando finalmente decidimos que se llamaría BikeTripin, sinceramente me dió paja cambiarlos así que esperé y hoy ya habiendo terminado la Hackathon me dispuse a buscar una forma de hacerlo más sencilla y la quiero dejar para todos. Gal Koren ([Gal Koren @ GitHub][2]) creó un plugin que nos hace esta pega de la forma más sencilla posible, asi que abran una terminal y manos a la obra:

@@ -18,11 +18,15 @@ La idea también es corregir las líneas de código que hay a lo largo de los po
 
 Les cuento cosas entretenidas, por ejemplo para hacer links lo que se debe hacer es básicamente esto:
 
-`[descripción link][1]`
+{% highlight text %}
+[descripción link][1]
+{% endhighlight %}
 
 y al final del archivo debes agregar una línea así:
 
-` [1]: http://urldedestino.com`
+{% highlight text %}
+ [1]: http://urldedestino.com
+{% endhighlight %}
 
 Otra cosa curiosa es el manejo de categorías, en Jekyll si pongo "Off-Topic" y "Vida diaria" en la info del post cuando lo redacto, lo que se crea es una categoría jerarquizada "Off-Topic/Vida diaria" por eso si van a [CATEGORIES][2] se darán cuenta que hay demasiadas categorías de esta manera producto del uso de más de una categoría en WordPress originalmente.
 

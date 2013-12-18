@@ -15,7 +15,9 @@ I really hate to use “localhost/index.html”, “192.168.0.100:3000″ or “
 
 Simply use your favourite text-editor (w/ root privileges) and add this line to your *hosts* (it’s inside the “*etc” *directory) file:
 
-`127.0.0.1 www.yourpage.dev yourpage.dev <www.yourpage.dev>`
+{% highlight text %}
+127.0.0.1 www.yourpage.dev yourpage.dev <www.yourpage.dev>
+{% endhighlight %}
 
 And that’s all, I hope that this will be helpful for someone.
 
