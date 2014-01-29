@@ -5,24 +5,17 @@ title: pase y lea sin compromiso
 
 <div id="home">
   <h2><i class="icon-bookmark"></i> Blog Posts</h2>
-    {% for post in paginator.posts %}
-      <hr/>
-      <p class="author">
-        <h4>
-          <small class="date">{{ post.date | date_to_string }}</small>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </h4>
-      </p>
-      <p>
-        {{ post.content | truncatewords: 225 }}
-      </p>
-      <!-- CIERRES CONDICIONALES -->
-      </em></b></code></pre></li></ol>
-      <a href="{{ post.url }}" class="next" style="float: right; margin-top: -17px; margin-bottom: 10px;">Continue Reading</a>
-    {% endfor %}
+  <hr/>
+  {% for post in site.posts %}
+    <p>
+      <small class="date">{{ post.date | date_to_string }}</small>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </p>
+  {% endfor %}
 </div>
 <hr/>
-<!-- Pagination links -->
+
+<!-- Pagination links
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="/{{ paginator.previous_page }}" class="previous">Previous</a>
@@ -35,4 +28,4 @@ title: pase y lea sin compromiso
   {% else %}
     <span class="none"></span>
   {% endif %}
-</div>
+</div> -->
