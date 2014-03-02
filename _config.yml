@@ -1,4 +1,5 @@
 # General Jekyll Config
+encoding: utf-8
 pygments: true
 url: http://blog.cabargas.com
 lsi: false
