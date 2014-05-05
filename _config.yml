@@ -14,7 +14,7 @@ theme:
   # Profile links on the left sidebar, leave blank to ignore
   social:
     github: felipecabargas
-    bitbucket: felipecabargas
+    #bitbucket: felipecabargas
     #hacker_news: cabargas
     #stackexchange: 2205353/cabargasdotcom
     #stackoverflow: 2205353/cabargasdotcom
