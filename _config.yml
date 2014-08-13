@@ -1,6 +1,6 @@
 # General Jekyll Config
 encoding: utf-8
-pygments: true
+highlighter: pygments
 url: http://blog.cabargas.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
