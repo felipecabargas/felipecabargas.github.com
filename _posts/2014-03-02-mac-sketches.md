@@ -32,8 +32,8 @@ Now I present *Mac Sketches*, featuring:
 
 #####DISCLAIMER
 ---
-1.- If you want to use it, they are being released under a [CC-BY-SA license](http://creativecommons.org/licenses/by-sa/4.0/) so it's free, even for commercial uses.
-2.- If you have a requirement, or need the files in any format, please drop me an email to felipe@cabargas.com
-3.- The Apple logo and Mac brand are registered trademarks of Apple Inc.
+1. If you want to use it, they are being released under a [CC-BY-SA license](http://creativecommons.org/licenses/by-sa/4.0/) so it's free, even for commercial uses.
+2. If you have a requirement, or need the files in any format, please drop me an email to felipe@cabargas.com
+3. The Apple logo and Mac brand are registered trademarks of Apple Inc.
 
 [1]: http://cabargas.com/images/MacSketches@2x.png
