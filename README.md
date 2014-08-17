@@ -1,4 +1,8 @@
-#felipecabargas.github.com
+**THIS REPO IS DEPRECATED, FOR THE CURRENT ONE GO TO THE NEW ONE:**
+---
+[felipecabargas.github.io](http://github.com/felipecabargas/felipecabargas.github.io)
+
+**felipecabargas.github.com**
 ---
 This repo contains my [IT blog](http://blog.cabargas.com).
 
@@ -33,7 +37,7 @@ To start the server with auto-regeneration capacities:
 
 
 		git push origin master
-		
+
 	**GitHub will automatically deploy your changes.**
 
 5. Enjoy!
